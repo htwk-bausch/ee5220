@@ -1,2 +1,2 @@
-# ee5220
+# Digitale Signalverarbeitung
 Codebeispiele und Anleitungen für das Modul "Digitale Signalverarbeitung"
