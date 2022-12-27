@@ -1,6 +1,7 @@
-name: FIR-Design
+name: FIR-Filter-Design
+channels:
+  - conda-forge
 dependencies:
-  - python
   - numpy
   - scipy
   - matplotlib
