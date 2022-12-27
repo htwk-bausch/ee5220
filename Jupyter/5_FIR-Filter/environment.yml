@@ -1,0 +1,6 @@
+name: FIR-Design
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
