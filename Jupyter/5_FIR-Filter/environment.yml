@@ -1,7 +1,14 @@
-name: FIR-Filter-Design
+name: jupyter
 channels:
   - conda-forge
 dependencies:
-  - numpy
   - scipy
+  - jupyterlab
+  - numpy
+  - python=3.8
   - matplotlib
+  - scikit-image
+  - pandas
+  - mpl-interactions
+  - ipywidgets
+  
